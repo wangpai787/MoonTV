@@ -84,11 +84,6 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    },
-    "live_site": {
-      "vod_id": "ALL-Sub-VIP",
-      "vod_name": "ALL-Sub-VIP",
-      "vod_play_url": "播放源$https://feiyang.wangdu.site/ALL-Sub-VIP.m3u"
     }
   }
 }
