@@ -86,9 +86,9 @@
       "name": "小猫咪资源"
     },
     "live_site": {
-      "api": "https://https://aktv.space/api.php/live",
-      "name": "某直播平台",
-      "detail": "https://aktv.space"
+      "vod_id": "ALL-Sub-VIP",
+      "vod_name": "ALL-Sub-VIP",
+      "vod_play_url": "播放源$https://feiyang.wangdu.site/ALL-Sub-VIP.m3u"
     }
   }
 }
