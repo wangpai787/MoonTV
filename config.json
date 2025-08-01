@@ -85,11 +85,10 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-      "api_site": {
-    "live_tv": {
-      "api": "https://feiyang.wangdu.site/ALL-Sub-VIP.m3u/api/live",
-      "name": "LiveTV频道",
-      "https://feiyang.wangdu.site/ALL-Sub-VIP.m3u"
+    "live_site": {
+      "api": "https://https://aktv.space/api.php/live",
+      "name": "某直播平台",
+      "detail": "https://aktv.space"
     }
   }
 }
